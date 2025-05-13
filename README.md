@@ -1,9 +1,4 @@
 # 👋 Hi, I’m Manoj, Nice to meet you!!
-
-- 👀 I’m interested in `Back-end Dev`
-`Cloud`
-`Open-source`
-`Automotive`
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📳 [Linkedin](https://www.linkedin.com/in/manojsunagar/)
